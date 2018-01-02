@@ -12,7 +12,7 @@ This repository is a collection of resources for jekyll-rdf plugin.
 2. [101 Test](https://github.com/DTP16/jekyll-rdf-test)
 3. [AKSW to Jekyll-RDF](https://github.com/Simaris/aksw-to-jekyll-rdf)
 4. [Jekyll-RDF Showcase](https://github.com/Simaris/ShowcaseJekyllRDF)
-5. [SDA Website](https://github.com/Simaris/ShowcaseJekyllRDF)
+5. [SDA Website](https://github.com/SmartDataAnalytics/sda.tech)
 
 ## Related Jekyll Commands, Plugins, Extensions, Filters
 1. [Turtle2Bib](https://github.com/RohanAsmat/Turtle2Bib)
