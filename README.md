@@ -13,6 +13,7 @@ This repository is a collection of resources for jekyll-rdf plugin.
 3. [AKSW to Jekyll-RDF](https://github.com/Simaris/aksw-to-jekyll-rdf)
 4. [Jekyll-RDF Showcase](https://github.com/Simaris/ShowcaseJekyllRDF)
 5. [SDA Website](https://github.com/SmartDataAnalytics/sda.tech)
+6. [JOD: The JOD project generates documentation web pages from Ontology turtle documents](https://github.com/eccenca/jod)
 
 ## Related Jekyll Commands, Plugins, Extensions, Filters
 1. [Turtle2Bib](https://github.com/RohanAsmat/Turtle2Bib)
