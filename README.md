@@ -17,3 +17,4 @@ This repository is a collection of resources for jekyll-rdf plugin.
 
 ## Related Jekyll Commands, Plugins, Extensions, Filters
 1. [Turtle2Bib](https://github.com/RohanAsmat/Turtle2Bib)
+2. [Docker Jekyll Pages: This is a docker image to build a Jekyll page from a Git repository. ](https://github.com/white-gecko/dockerjekyllpages)
