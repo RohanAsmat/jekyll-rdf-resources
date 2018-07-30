@@ -1,6 +1,9 @@
 # jekyll-rdf-resources
 This repository is a collection of resources for jekyll-rdf plugin.
 
+## Tutorial 
+[Jekyll-RDF Tutorial](https://github.com/white-gecko/JekyllRDF-Tutorial)
+
 ## The Golden Code Itself (Source Code of Jekyll-rdf)
 [Jekyll-RDF](https://github.com/white-gecko/jekyll-rdf)
 
