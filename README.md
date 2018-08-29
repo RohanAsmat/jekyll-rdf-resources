@@ -1,14 +1,13 @@
 # jekyll-rdf-resources
 This repository is a collection of resources for jekyll-rdf plugin.
 
-## Tutorial 
-[Jekyll-RDF Tutorial](https://github.com/white-gecko/JekyllRDF-Tutorial)
-
 ## The Golden Code Itself (Source Code of Jekyll-rdf)
 [Jekyll-RDF](https://github.com/white-gecko/jekyll-rdf)
 
-## The Golden Talk by Maintainer, Owner
-[Jekyll-RDF](https://github.com/white-gecko/SciFiTalk-JekyllRDF)
+## Tutorial and The Golden Talk by Maintainer, Owner
+- [SciFiTalk-JekyllRDF](https://white-gecko.github.io/SciFiTalk-JekyllRDF/) ([Sources](https://github.com/white-gecko/SciFiTalk-JekyllRDF))
+- [Screencast](https://vimeo.com/283525074) ([Blog Post](https://natanael.arndt.xyz/2018/08/07/jekyll-rdf-tutorial-screencast))
+- [Jekyll-RDF Tutorial](https://github.com/white-gecko/JekyllRDF-Tutorial)
 
 ## Showcase of Jekyll-RDF
 1. [Linked Data Driven Business Website](https://github.com/FTeichmann/Jekyll-RDF-Businesscards)
